@@ -41,10 +41,10 @@ button{
     font-weight: bold;
     cursor: pointer;
 }
-button:hover{
+/* button:hover{
     background-color: hsl(0, 27%, 96%);
     color: black;
-}
+} */
 button:active{
     background-color: hsl(0, 0%, 50%);
 }
