@@ -23,6 +23,6 @@ function square(){
 function trangle(){
     display.value=display.value*display.value*display.value;
 }
-function persiontage(){
+function percentage(){
     display.value=display.value/100
 }
